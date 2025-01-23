@@ -1,0 +1,2 @@
+# generator
+ Simple wordlist generator
